@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Portfólio — João da Fonte",
+    "slug": "portfolio-academico",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "portfolioacademico",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0b0c0e",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joaodafontequeiroz.portfolio"
+    },
+    "android": {
+      "package": "com.joaodafontequeiroz.portfolio",
+      "adaptiveIcon": {
+        "backgroundColor": "#0b0c0e",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0b0c0e",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 180
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
