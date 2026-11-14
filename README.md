@@ -7,6 +7,9 @@ Mesmo conteúdo e mesma identidade visual (fundo escuro + accent âmbar + tipogr
 
 - **EAS Update (canal `preview`)**: https://expo.dev/accounts/joaodafontequeiroz/projects/portfolio-academico/updates/b66725eb-d09d-4174-afd0-818b28fd7c99
 - **Abrir no Expo Go**: `exp://u.expo.dev/8f86d710-0638-45a3-9d23-7cc0f82e53ce?channel-name=preview&runtime-version=exposdk%3A58.0.0`
+- **QR do update (Expo Go)**: https://qr.expo.dev/eas-update?projectId=8f86d710-0638-45a3-9d23-7cc0f82e53ce&runtimeVersion=exposdk%3A58.0.0&channel=preview
+
+![QR code do update de preview](docs/qr-preview.png)
 
 ## Telas
 
