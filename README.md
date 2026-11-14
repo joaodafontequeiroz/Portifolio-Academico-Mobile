@@ -3,6 +3,11 @@
 Versão mobile do portfólio de **João Da Fonte Queiroz**, construída em **React Native com Expo Router**.
 Mesmo conteúdo e mesma identidade visual (fundo escuro + accent âmbar + tipografia monoespaçada) da versão web em Next.js, agora como app nativo.
 
+## Publicado
+
+- **EAS Update (canal `preview`)**: https://expo.dev/accounts/joaodafontequeiroz/projects/portfolio-academico/updates/b66725eb-d09d-4174-afd0-818b28fd7c99
+- **Abrir no Expo Go**: `exp://u.expo.dev/8f86d710-0638-45a3-9d23-7cc0f82e53ce?channel-name=preview&runtime-version=exposdk%3A58.0.0`
+
 ## Telas
 
 | Rota | Tela | Conteúdo |
